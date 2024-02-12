@@ -41,7 +41,7 @@ main_menu() {
 
     3)
 
-      source admin_helper_system/submenu.sh
+      source submenu.sh
       ;;
 
     4)
