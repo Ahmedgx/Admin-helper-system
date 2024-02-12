@@ -35,7 +35,7 @@ To install and run the Admin Helper System, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/Ahmedgx/admin_helper_system.git]
+   git clone https://github.com/Ahmedgx/Admin-helper-system.git
 
 2. **Make the script executable:**
 
