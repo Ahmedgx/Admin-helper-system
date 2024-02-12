@@ -42,7 +42,7 @@ To install and run the Admin Helper System, follow these steps:
   - Navigate to the cloned directory and make both scripts executable using `chmod` :
 
     ```bash
-    cd admin_helper_system
+    cd Admin-helper-system
     chmod +x main.sh submenu.sh
 
 3. **Run the main script:**
